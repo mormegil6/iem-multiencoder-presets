@@ -11,6 +11,7 @@ The loudspeaker layouts were created as listed in APL's [Virtuoso](https://apl-h
 ## Usage
 
 Install the IEM plugins, run MultiEncoder and click "import":
+
 ![IEM MultiEncoder VST plug-in](https://i.ibb.co/g4xWgJz/SCR-20241201-pfmt-2.png)
 
 ## Support
