@@ -6,7 +6,7 @@
 
 The presets were created for [IEM MultiEncoder](https://plugins.iem.at/docs/plugindescriptions/#multiencoder) from [IEM Plug-in Suite](https://plugins.iem.at/).
 
-The loudspeaker layouts were created as listed in APL's [Virtuoso](https://apl-hud.com/product/virtuoso/) loudspeaker layouts [file](https://apl-hud.com/wp-content/uploads/2023/03/APL-Virtuoso-Loudspeaker-Layouts.pdf).
+The presets were created as listed in APL [Virtuoso](https://apl-hud.com/product/virtuoso/)'s loudspeaker layouts [file](https://apl-hud.com/wp-content/uploads/2023/03/APL-Virtuoso-Loudspeaker-Layouts.pdf).
 
 ## Usage
 
