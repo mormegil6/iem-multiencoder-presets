@@ -1,27 +1,21 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 # IEM MultiEncoder presets
 
-
-
 ## Getting started
-
 The presets were created for [IEM MultiEncoder](https://plugins.iem.at/docs/plugindescriptions/#multiencoder) from [IEM Plug-in Suite](https://plugins.iem.at/).
 
 The presets were created as listed in APL [Virtuoso](https://apl-hud.com/product/virtuoso/)'s loudspeaker layouts [file](https://apl-hud.com/wp-content/uploads/2023/03/APL-Virtuoso-Loudspeaker-Layouts.pdf).
 
 ## Usage
-
 Install the IEM plugins, run MultiEncoder and click "import":
 
 ![IEM MultiEncoder VST plug-in](https://i.ibb.co/gVFZKMx/SCR-20241201-pmgi-2.png)
 
 ## Support
-
 All questions, comments and insights please address to me via e-mail: bartlomiej.mroz@pg.edu.pl
 
 ## License
-
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
