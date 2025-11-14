@@ -1,0 +1,393 @@
+{
+  "Name": "SPARTA AmbiDEC loudspeaker directions.",
+  "Description": "This configuration file was created with the SPARTA AmbiDEC v1.6.5 plug-in. 8 Oct 2023 7:20:31pm",
+  "LoudspeakerLayout": {
+    "Name": "Loudspeaker Directions",
+    "Loudspeakers": [
+      {
+        "Azimuth": 20.74580955505371,
+        "Elevation": -3.551964521408081,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 1,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -20.74580955505371,
+        "Elevation": 3.551964521408081,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 2,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -3.797540664672852,
+        "Elevation": -20.70412445068359,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 3,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 3.797540664672852,
+        "Elevation": 20.70412445068359,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 4,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 159.2541961669922,
+        "Elevation": 3.551964521408081,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 5,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -159.2541961669922,
+        "Elevation": -3.551964521408081,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 6,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -176.2024536132812,
+        "Elevation": 20.70412445068359,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 7,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 176.2024536132812,
+        "Elevation": -20.70412445068359,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 8,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 93.79753875732422,
+        "Elevation": 20.70412445068359,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 9,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 86.20246124267578,
+        "Elevation": -20.70412445068359,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 10,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 110.7458114624023,
+        "Elevation": -3.551964521408081,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 11,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 69.25418853759766,
+        "Elevation": 3.551964521408081,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 12,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -86.20246124267578,
+        "Elevation": 20.70412445068359,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 13,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -93.79753875732422,
+        "Elevation": -20.70412445068359,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 14,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -69.25418853759766,
+        "Elevation": -3.551964521408081,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 15,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -110.7458114624023,
+        "Elevation": 3.551964521408081,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 16,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -9.939436912536621,
+        "Elevation": 68.96553802490234,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 17,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 170.0605621337891,
+        "Elevation": 68.96553802490234,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 18,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -99.93943786621094,
+        "Elevation": 68.96553802490234,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 19,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 80.06056213378906,
+        "Elevation": 68.96553802490234,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 20,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 9.939436912536621,
+        "Elevation": -68.96553802490234,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 21,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -170.0605621337891,
+        "Elevation": -68.96553802490234,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 22,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 99.93943786621094,
+        "Elevation": -68.96553802490234,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 23,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -80.06056213378906,
+        "Elevation": -68.96553802490234,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 24,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 42.14725112915039,
+        "Elevation": 17.56815528869629,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 25,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -42.14725112915039,
+        "Elevation": -17.56815528869629,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 26,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 23.12376022338867,
+        "Elevation": -39.77244186401367,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 27,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -23.12376022338867,
+        "Elevation": 39.77244186401367,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 28,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 137.8527526855469,
+        "Elevation": -17.56815528869629,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 29,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -137.8527526855469,
+        "Elevation": 17.56815528869629,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 30,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 156.8762359619141,
+        "Elevation": 39.77244186401367,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 31,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -156.8762359619141,
+        "Elevation": -39.77244186401367,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 32,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 66.87623596191406,
+        "Elevation": 39.77244186401367,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 33,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 113.1237640380859,
+        "Elevation": -39.77244186401367,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 34,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 132.1472473144531,
+        "Elevation": 17.56815528869629,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 35,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 47.85274887084961,
+        "Elevation": -17.56815528869629,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 36,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -113.1237640380859,
+        "Elevation": 39.77244186401367,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 37,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -66.87623596191406,
+        "Elevation": -39.77244186401367,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 38,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -47.85274887084961,
+        "Elevation": 17.56815528869629,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 39,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -132.1472473144531,
+        "Elevation": -17.56815528869629,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 40,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 25.25872039794922,
+        "Elevation": 44.97852325439453,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 41,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -154.7412719726562,
+        "Elevation": 44.97852325439453,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 42,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -64.74127960205078,
+        "Elevation": 44.97852325439453,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 43,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 115.2587203979492,
+        "Elevation": 44.97852325439453,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 44,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -25.25872039794922,
+        "Elevation": -44.97852325439453,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 45,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 154.7412719726562,
+        "Elevation": -44.97852325439453,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 46,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 64.74127960205078,
+        "Elevation": -44.97852325439453,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 47,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -115.2587203979492,
+        "Elevation": -44.97852325439453,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 48,
+        "Gain": 1.0
+      }
+    ]
+  }
+}
