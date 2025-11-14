@@ -1,0 +1,41 @@
+{
+  "Name": "SPARTA AmbiDEC loudspeaker directions.",
+  "Description": "This configuration file was created with the SPARTA AmbiDEC v1.6.5 plug-in. 8 Oct 2023 7:19:51pm",
+  "LoudspeakerLayout": {
+    "Name": "Loudspeaker Directions",
+    "Loudspeakers": [
+      {
+        "Azimuth": 45.0,
+        "Elevation": 35.26438903808594,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 1,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -45.0,
+        "Elevation": -35.26438903808594,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 2,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": 135.0,
+        "Elevation": -35.26438903808594,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 3,
+        "Gain": 1.0
+      },
+      {
+        "Azimuth": -135.0,
+        "Elevation": 35.26438903808594,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 4,
+        "Gain": 1.0
+      }
+    ]
+  }
+}
