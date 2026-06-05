@@ -45,14 +45,9 @@ Loudspeaker positions follow the APL [Virtuoso](https://apl-hud.com/product/virt
 
 ![IEM MultiEncoder VST plug-in](https://i.ibb.co/gVFZKMx/SCR-20241201-pmgi-2.png)
 
-## Contact
-
-Bartłomiej Mróz · bartlomiej.mroz@pg.edu.pl · Department of Multimedia Systems, Gdańsk University of Technology · [bmroz.eu](https://bmroz.eu)
-
 ## License
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
@@ -60,3 +55,6 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
+## Contact
+
+Bartłomiej Mróz · bartlomiej.mroz@pg.edu.pl · Department of Multimedia Systems, Gdańsk University of Technology · [bmroz.eu](https://bmroz.eu)
