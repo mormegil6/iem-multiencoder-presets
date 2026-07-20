@@ -1,0 +1,121 @@
+{
+  "Name": "Sony 360 Reality Audio 13.1 (5.0.5+3B + LFE)",
+  "Description": "Sony 360 Reality Audio 13-speaker layout (5.0.5+3B) with an LFE object appended as channel 14 at azimuth 0 deg, elevation -50 deg, gain +6 dB. The 13.1 designation is a convenience for LFE-bearing sources; the guideline defines no LFE speaker, but recommends importing LFE content as an object at these coordinates. Source: Sony 360 Reality Audio content creation guideline v2.1 (30 Sep 2025), Recommended Speaker Layout 13 Speakers (5.0.5+3B).",
+  "LoudspeakerLayout": {
+    "Name": "Loudspeaker Directions",
+    "Loudspeakers": [
+      {
+        "Azimuth": 0,
+        "Elevation": 0,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 1,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 30,
+        "Elevation": 0,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 2,
+        "Gain": 1
+      },
+      {
+        "Azimuth": -30,
+        "Elevation": 0,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 3,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 110,
+        "Elevation": 0,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 4,
+        "Gain": 1
+      },
+      {
+        "Azimuth": -110,
+        "Elevation": 0,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 5,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 0,
+        "Elevation": 30,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 6,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 30,
+        "Elevation": 30,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 7,
+        "Gain": 1
+      },
+      {
+        "Azimuth": -30,
+        "Elevation": 30,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 8,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 110,
+        "Elevation": 30,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 9,
+        "Gain": 1
+      },
+      {
+        "Azimuth": -110,
+        "Elevation": 30,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 10,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 0,
+        "Elevation": -20,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 11,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 30,
+        "Elevation": -20,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 12,
+        "Gain": 1
+      },
+      {
+        "Azimuth": -30,
+        "Elevation": -20,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 13,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 0.0,
+        "Elevation": -50.0,
+        "Radius": 1.0,
+        "IsImaginary": false,
+        "Channel": 14,
+        "Gain": 1.995262
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "Name": "Sony 360 Reality Audio 13 Speakers (5.0.5+3B)",
+  "Description": "Sony 360 Reality Audio recommended 13-speaker layout (5.0.5+3B). Source: Sony 360 Reality Audio content creation guideline v2.1 (30 Sep 2025), Recommended Speaker Layout 13 Speakers (5.0.5+3B).",
+  "LoudspeakerLayout": {
+    "Name": "Loudspeaker Directions",
+    "Loudspeakers": [
+      {
+        "Azimuth": 0,
+        "Elevation": 0,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 1,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 30,
+        "Elevation": 0,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 2,
+        "Gain": 1
+      },
+      {
+        "Azimuth": -30,
+        "Elevation": 0,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 3,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 110,
+        "Elevation": 0,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 4,
+        "Gain": 1
+      },
+      {
+        "Azimuth": -110,
+        "Elevation": 0,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 5,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 0,
+        "Elevation": 30,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 6,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 30,
+        "Elevation": 30,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 7,
+        "Gain": 1
+      },
+      {
+        "Azimuth": -30,
+        "Elevation": 30,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 8,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 110,
+        "Elevation": 30,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 9,
+        "Gain": 1
+      },
+      {
+        "Azimuth": -110,
+        "Elevation": 30,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 10,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 0,
+        "Elevation": -20,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 11,
+        "Gain": 1
+      },
+      {
+        "Azimuth": 30,
+        "Elevation": -20,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 12,
+        "Gain": 1
+      },
+      {
+        "Azimuth": -30,
+        "Elevation": -20,
+        "Radius": 1,
+        "IsImaginary": false,
+        "Channel": 13,
+        "Gain": 1
+      }
+    ]
+  }
+}
